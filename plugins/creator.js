@@ -626,7 +626,7 @@ END:VCARD
 `.trim()
     }]
   }, MessageType.contactsArray, { quoted: m })
-conn.send2Button(m.chat, `ITU KAK OWNER KU >_<`, `Alpin Botz`, `SEWA`, `.sewa`, `INFO OWNER`, `.ownerinfo`, m)
+conn.send2Button(m.chat, `NIH KAK OWNER >_<`, `Alpin Botz`, `SEWA`, `.sewa`, `INFO OWNER`, `.ownerinfo`, m)
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
